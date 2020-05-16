@@ -1,13 +1,10 @@
 # Html Conversion tool
 
-Make use of the HTML agility package and epplus to read HTML file into specfic excel format.
+C# windows application that reads Excel data using ExcelDataReader and outputs the graphics on the panel and grid.
 
 ## Built With
 
-* [Html Agility Pack](https://html-agility-pack.net/) - HTML parser
-* [Epplus](https://github.com/JanKallman/EPPlus) - EPPlus is a .NET library that reads and writes Excel files using the Office Open XML format (xlsx).
-* [EXCSS](https://github.com/TylerBrinks/ExCSS) - ExCSS (Pronounced Excess) is a CSS 2.1 and CSS 3 parser for .NET.
-
+* [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReaders) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ## Contributing
 
