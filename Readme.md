@@ -1,4 +1,4 @@
-# Html Conversion tool
+# Migration tool
 
 C# windows application that reads Excel data using ExcelDataReader and outputs the graphics on the panel and grid.
 
